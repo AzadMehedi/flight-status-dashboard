@@ -1,8 +1,7 @@
-# flight-status-dashboard
-This is a MS Power BI project about passenger flights.
+# Power BI Dashboard for Airline Flight Performance Analysis
 
 ![dashboard picture](https://github.com/user-attachments/assets/a147ee3d-739d-43c1-a3e1-27fba834303d)
-# Power BI Dashboard for Airline Flight Performance Analysis
+
 #### Developed an interactive Power BI dashboard to analyze airline flight performance, focusing on on-time, delayed, and cancelled flights.
 #### Visualized monthly trends of on-time, delayed, and cancelled flights using line charts to help stakeholders monitor flight reliability over time.
 ![image](https://github.com/user-attachments/assets/b2aa2d82-7666-4640-a0ce-08b4124d6484)
