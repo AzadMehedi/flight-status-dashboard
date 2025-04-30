@@ -1,5 +1,6 @@
 # Power BI Dashboard for Airline Flight Performance Analysis
-#### Developed an interactive Power BI dashboard to analyze airline flight performance, focusing on on-time, delayed, and cancelled flights.
+#### Developed an interactive Power BI dashboard to analyze airline flight performance, focusing on on-time, delayed, and cancelled flights. 
+## Outcome: Helped management identify operational weaknesses and optimize scheduling and resource allocation.
 ![dashboard picture](https://github.com/user-attachments/assets/a147ee3d-739d-43c1-a3e1-27fba834303d)
 
 #### Visualized monthly trends of on-time, delayed, and cancelled flights using line charts to help stakeholders monitor flight reliability over time.
@@ -12,5 +13,5 @@
 ![image](https://github.com/user-attachments/assets/2fdd9171-bfef-4f8a-a408-6fc2c7ea01b7)
 #### Implemented dynamic filters and slicers for efficient exploration of flight data by location, time, and reason.
 ![image](https://github.com/user-attachments/assets/c402b688-77c5-47ea-bf26-e4fc3956172f)
-# Outcome: Helped management identify operational weaknesses and optimize scheduling and resource allocation.
+
 
