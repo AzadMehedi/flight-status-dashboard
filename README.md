@@ -12,5 +12,5 @@
 ![image](https://github.com/user-attachments/assets/2fdd9171-bfef-4f8a-a408-6fc2c7ea01b7)
 #### Implemented dynamic filters and slicers for efficient exploration of flight data by location, time, and reason.
 ![image](https://github.com/user-attachments/assets/c402b688-77c5-47ea-bf26-e4fc3956172f)
-#### Outcome: Helped management identify operational weaknesses and optimize scheduling and resource allocation.
+# Outcome: Helped management identify operational weaknesses and optimize scheduling and resource allocation.
 
